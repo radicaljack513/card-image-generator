@@ -9,3 +9,4 @@ WORKDIR /dist/
 EXPOSE 5050:5050
 
 CMD ./gradlew run
+gh repo clone vthub/card-image-generator
